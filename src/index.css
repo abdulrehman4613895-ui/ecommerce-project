@@ -971,7 +971,7 @@
     display: block;
   }
   .hero {
-        width: 100%;
+        width: 98%;
         background-position: center;
         background-size: cover;
         position: relative;
@@ -1072,7 +1072,7 @@
 
 .banner img{
   width: 200px;
-  margin-left: -15%;
+  margin-left: -16.2%;
 }
 .banner-two{
   width: 200px;
